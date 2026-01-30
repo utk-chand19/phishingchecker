@@ -1,0 +1,17 @@
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.vscode/
+.idea/
+*.sqlite3
+.git/
